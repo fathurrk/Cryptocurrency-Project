@@ -1,5 +1,5 @@
 # Cryptocurrency Project
-Helping the investor to know about trends of Doge Coin, so we will determine the variable :
+Helping the investor to know about trends of Doge Coin, so we will determine the variable of :
 + Market Capitalization
 + Volume
 + Open Price 
